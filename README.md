@@ -31,7 +31,7 @@ The data directory should be outside the repos root directory in it's parent fol
 ```
 This repo directory should have the following subfolders
 ```bash
-.Project
+.SeisLearn
 ├── .venv
 ├── figures
 ├── mlruns *
