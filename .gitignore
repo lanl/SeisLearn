@@ -3,6 +3,7 @@ figures
 outputs
 .venv
 __pycache__
+.trash
 
 # Files
 *.parquet
