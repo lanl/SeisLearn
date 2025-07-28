@@ -1,6 +1,15 @@
 # SeisLearn
 Understanding data amount impact on seismic deep learning [O4968]
 
+**Table of Content**
+- [Setup](#setup)
+- [Data Labeling](#data-labeling)
+- [Training](#training)
+- [Evaluation](#evaluation)
+- [HPC sync and SLURM jobs](#hpc-sync-and-slurm-jobs)
+- [Clean up](#clean-up)
+
+
 ### Setup
 The repo is setup to use [`poetry`](https://python-poetry.org/docs/) as a package manager. Install it if 
 you don't have it locally and run `poetry install` in the root directory. This creates a local virtual 
@@ -135,6 +144,17 @@ to be run on CPU only, but you can extend functionality to GPUs if you prefer.
     - Check job run history `scontrol show job <jobid>`
     - Check GPU utilization `srun --jobid=<jobid> nvidia-smi -l 1`
 - Check storage size in active directory: `du -sh`. When storage is full, jobs fail silently without coherent error logs. 
+
+
+### Clean up
+When distributed GPU is used, mlflow creates duplicated experiments for each additional  GPU. No metrics/params are logged 
+in this experiment, and it clutters the experiment and output directories. I include the details in a clean up 
+[file](./seisnet/pipelines/cleanup.py). For experiments that fail, I also include their details in the clean file. Run the 
+clean up file with `poetry run python seisnet/pipelines/cleanup.py` to delete the experiments and their associated artifacts. 
+
+> [!Tip]
+> If you dislike _poetry_, after installing the virtual env, you can activate it with `source .venv/bin/activate` and run 
+> python scripts directly with `python <script_name>.py` in terminal.
 
 <br><br><br>
 
