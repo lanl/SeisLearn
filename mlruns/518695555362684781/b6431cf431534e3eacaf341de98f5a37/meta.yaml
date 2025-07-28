@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/b6431cf431534e3eacaf341de98f5a37/artifacts
+end_time: 1753530652847
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: b6431cf431534e3eacaf341de98f5a37
+run_name: wise-fowl-24
+run_uuid: b6431cf431534e3eacaf341de98f5a37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753370957230
+status: 3
+tags: []
+user_id: jomojola

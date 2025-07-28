@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/731c6458ce9b4876965da5d9ebdf984c/artifacts
+end_time: 1753537039514
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 731c6458ce9b4876965da5d9ebdf984c
+run_name: beautiful-rat-259
+run_uuid: 731c6458ce9b4876965da5d9ebdf984c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753317869299
+status: 3
+tags: []
+user_id: jomojola

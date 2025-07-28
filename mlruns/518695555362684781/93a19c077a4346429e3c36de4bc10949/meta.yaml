@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/93a19c077a4346429e3c36de4bc10949/artifacts
+end_time: 1753552661997
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 93a19c077a4346429e3c36de4bc10949
+run_name: serious-calf-23
+run_uuid: 93a19c077a4346429e3c36de4bc10949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752941299159
+status: 3
+tags: []
+user_id: jomojola

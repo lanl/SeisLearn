@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/d1b34b706d5e4773a32eb8b9695aefd7/artifacts
+end_time: 1749739537238
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: d1b34b706d5e4773a32eb8b9695aefd7
+run_name: judicious-moth-272
+run_uuid: d1b34b706d5e4773a32eb8b9695aefd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749683496101
+status: 3
+tags: []
+user_id: josesomojola

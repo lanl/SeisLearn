@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/997073005670415334/f399cbeabc8740b0abfdd370dba8a7a5/artifacts
+end_time: 1753521907556
+entry_point_name: ''
+experiment_id: '997073005670415334'
+lifecycle_stage: active
+run_id: f399cbeabc8740b0abfdd370dba8a7a5
+run_name: grandiose-lynx-96
+run_uuid: f399cbeabc8740b0abfdd370dba8a7a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753140459209
+status: 3
+tags: []
+user_id: jomojola

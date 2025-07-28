@@ -1,0 +1,16 @@
+artifact_uri: /Users/josesomojola/project/mlruns/997073005670415334/76fd54ee4f4e4002980247e99bcbd9f3/artifacts
+deleted_time: 1751594491302
+end_time: 1751479823820
+entry_point_name: ''
+experiment_id: '997073005670415334'
+lifecycle_stage: deleted
+run_id: 76fd54ee4f4e4002980247e99bcbd9f3
+run_name: suave-lynx-703
+run_uuid: 76fd54ee4f4e4002980247e99bcbd9f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751479820546
+status: 4
+tags: []
+user_id: josesomojola

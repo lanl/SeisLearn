@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/997073005670415334/2088c0ff04634c9682b34883d73c59bc/artifacts
+end_time: 1753510106825
+entry_point_name: ''
+experiment_id: '997073005670415334'
+lifecycle_stage: active
+run_id: 2088c0ff04634c9682b34883d73c59bc
+run_name: glamorous-roo-322
+run_uuid: 2088c0ff04634c9682b34883d73c59bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753426281724
+status: 3
+tags: []
+user_id: jomojola

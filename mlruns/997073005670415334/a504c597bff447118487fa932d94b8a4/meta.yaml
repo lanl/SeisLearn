@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/997073005670415334/a504c597bff447118487fa932d94b8a4/artifacts
+end_time: 1753523088932
+entry_point_name: ''
+experiment_id: '997073005670415334'
+lifecycle_stage: active
+run_id: a504c597bff447118487fa932d94b8a4
+run_name: nosy-foal-617
+run_uuid: a504c597bff447118487fa932d94b8a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130505952
+status: 3
+tags: []
+user_id: jomojola

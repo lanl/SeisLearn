@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/d838733445544c349106544183c3266b/artifacts
+end_time: 1753560857057
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: d838733445544c349106544183c3266b
+run_name: unruly-jay-109
+run_uuid: d838733445544c349106544183c3266b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753221939630
+status: 3
+tags: []
+user_id: jomojola

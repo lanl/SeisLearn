@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/997073005670415334/24901e091d5b4e58a45f701a2e2ef8b6/artifacts
+end_time: 1753527596751
+entry_point_name: ''
+experiment_id: '997073005670415334'
+lifecycle_stage: active
+run_id: 24901e091d5b4e58a45f701a2e2ef8b6
+run_name: youthful-grub-578
+run_uuid: 24901e091d5b4e58a45f701a2e2ef8b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752708400294
+status: 3
+tags: []
+user_id: jomojola

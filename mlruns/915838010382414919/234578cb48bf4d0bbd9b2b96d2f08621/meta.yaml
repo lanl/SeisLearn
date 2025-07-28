@@ -1,0 +1,16 @@
+artifact_uri: /vast/home/jomojola/project/mlruns/915838010382414919/234578cb48bf4d0bbd9b2b96d2f08621/artifacts
+deleted_time: 1751319972443
+end_time: 1751305641952
+entry_point_name: ''
+experiment_id: '915838010382414919'
+lifecycle_stage: deleted
+run_id: 234578cb48bf4d0bbd9b2b96d2f08621
+run_name: debonair-shrimp-166
+run_uuid: 234578cb48bf4d0bbd9b2b96d2f08621
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751305641760
+status: 4
+tags: []
+user_id: jomojola

@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/369b9e2d957c4ed5bdd72348d8aee762/artifacts
+end_time: 1753555500254
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 369b9e2d957c4ed5bdd72348d8aee762
+run_name: able-foal-895
+run_uuid: 369b9e2d957c4ed5bdd72348d8aee762
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752857874485
+status: 3
+tags: []
+user_id: jomojola

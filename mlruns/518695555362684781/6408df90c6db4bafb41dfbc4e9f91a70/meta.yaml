@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/6408df90c6db4bafb41dfbc4e9f91a70/artifacts
+end_time: 1753538201902
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 6408df90c6db4bafb41dfbc4e9f91a70
+run_name: valuable-swan-401
+run_uuid: 6408df90c6db4bafb41dfbc4e9f91a70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753273923848
+status: 3
+tags: []
+user_id: jomojola

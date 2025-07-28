@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/8641331812454265882852b2ab09521a/artifacts
+end_time: 1753539128490
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 8641331812454265882852b2ab09521a
+run_name: enchanting-fox-27
+run_uuid: 8641331812454265882852b2ab09521a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753267777981
+status: 3
+tags: []
+user_id: jomojola

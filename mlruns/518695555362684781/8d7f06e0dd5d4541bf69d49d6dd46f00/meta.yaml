@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/8d7f06e0dd5d4541bf69d49d6dd46f00/artifacts
+end_time: 1753532093079
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 8d7f06e0dd5d4541bf69d49d6dd46f00
+run_name: lyrical-dove-46
+run_uuid: 8d7f06e0dd5d4541bf69d49d6dd46f00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753361470817
+status: 3
+tags: []
+user_id: jomojola

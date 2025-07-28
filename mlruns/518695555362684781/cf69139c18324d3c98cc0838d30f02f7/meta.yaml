@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/cf69139c18324d3c98cc0838d30f02f7/artifacts
+end_time: 1753555265749
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: cf69139c18324d3c98cc0838d30f02f7
+run_name: sneaky-hog-53
+run_uuid: cf69139c18324d3c98cc0838d30f02f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752857924688
+status: 3
+tags: []
+user_id: jomojola

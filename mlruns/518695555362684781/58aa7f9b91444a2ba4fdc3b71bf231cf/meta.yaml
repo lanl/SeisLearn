@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/58aa7f9b91444a2ba4fdc3b71bf231cf/artifacts
+end_time: 1753546078745
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 58aa7f9b91444a2ba4fdc3b71bf231cf
+run_name: clean-kite-25
+run_uuid: 58aa7f9b91444a2ba4fdc3b71bf231cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753240124829
+status: 3
+tags: []
+user_id: jomojola

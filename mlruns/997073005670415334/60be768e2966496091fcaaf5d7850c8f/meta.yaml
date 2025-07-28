@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/997073005670415334/60be768e2966496091fcaaf5d7850c8f/artifacts
+end_time: 1753516704552
+entry_point_name: ''
+experiment_id: '997073005670415334'
+lifecycle_stage: active
+run_id: 60be768e2966496091fcaaf5d7850c8f
+run_name: masked-ape-991
+run_uuid: 60be768e2966496091fcaaf5d7850c8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753348930782
+status: 3
+tags: []
+user_id: jomojola

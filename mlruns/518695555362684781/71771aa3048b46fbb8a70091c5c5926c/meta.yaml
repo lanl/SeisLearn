@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/71771aa3048b46fbb8a70091c5c5926c/artifacts
+end_time: 1753551033844
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 71771aa3048b46fbb8a70091c5c5926c
+run_name: dapper-snipe-769
+run_uuid: 71771aa3048b46fbb8a70091c5c5926c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753141087788
+status: 3
+tags: []
+user_id: jomojola

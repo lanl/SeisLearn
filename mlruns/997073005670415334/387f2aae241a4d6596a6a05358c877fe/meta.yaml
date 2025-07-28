@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/997073005670415334/387f2aae241a4d6596a6a05358c877fe/artifacts
+end_time: 1753519775024
+entry_point_name: ''
+experiment_id: '997073005670415334'
+lifecycle_stage: active
+run_id: 387f2aae241a4d6596a6a05358c877fe
+run_name: colorful-finch-249
+run_uuid: 387f2aae241a4d6596a6a05358c877fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753331578908
+status: 3
+tags: []
+user_id: jomojola

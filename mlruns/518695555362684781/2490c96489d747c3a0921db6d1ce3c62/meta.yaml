@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/2490c96489d747c3a0921db6d1ce3c62/artifacts
+end_time: 1753535403400
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 2490c96489d747c3a0921db6d1ce3c62
+run_name: learned-loon-758
+run_uuid: 2490c96489d747c3a0921db6d1ce3c62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753337925335
+status: 3
+tags: []
+user_id: jomojola

@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/329579f4e79a4df0b08251181c056ff4/artifacts
+end_time: 1753534689974
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 329579f4e79a4df0b08251181c056ff4
+run_name: valuable-panda-336
+run_uuid: 329579f4e79a4df0b08251181c056ff4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753343364635
+status: 3
+tags: []
+user_id: jomojola

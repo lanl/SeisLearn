@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/997073005670415334/b52c060ba90d4ae4995a849a2cb9b42c/artifacts
+end_time: 1753519530741
+entry_point_name: ''
+experiment_id: '997073005670415334'
+lifecycle_stage: active
+run_id: b52c060ba90d4ae4995a849a2cb9b42c
+run_name: stylish-shrew-998
+run_uuid: b52c060ba90d4ae4995a849a2cb9b42c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753332460408
+status: 3
+tags: []
+user_id: jomojola

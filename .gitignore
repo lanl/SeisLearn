@@ -1,0 +1,11 @@
+# Directories
+figures
+outputs
+.venv
+__pycache__
+
+# Files
+*.parquet
+*.lock
+*.db
+*.csv

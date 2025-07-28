@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/af1f860385394367a69c9a714806ec44/artifacts
+end_time: 1753542371576
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: af1f860385394367a69c9a714806ec44
+run_name: bemused-ant-844
+run_uuid: af1f860385394367a69c9a714806ec44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753253153982
+status: 3
+tags: []
+user_id: jomojola

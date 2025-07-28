@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/997073005670415334/fe22033f55544a05b1256ad745914fc1/artifacts
+end_time: 1753527835052
+entry_point_name: ''
+experiment_id: '997073005670415334'
+lifecycle_stage: active
+run_id: fe22033f55544a05b1256ad745914fc1
+run_name: masked-elk-133
+run_uuid: fe22033f55544a05b1256ad745914fc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752708187124
+status: 3
+tags: []
+user_id: jomojola

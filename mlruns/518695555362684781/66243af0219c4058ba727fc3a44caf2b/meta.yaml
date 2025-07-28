@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/66243af0219c4058ba727fc3a44caf2b/artifacts
+end_time: 1753545616037
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 66243af0219c4058ba727fc3a44caf2b
+run_name: bald-ram-656
+run_uuid: 66243af0219c4058ba727fc3a44caf2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753241265406
+status: 3
+tags: []
+user_id: jomojola

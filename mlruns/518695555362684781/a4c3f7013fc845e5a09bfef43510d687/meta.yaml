@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/a4c3f7013fc845e5a09bfef43510d687/artifacts
+end_time: 1753541662290
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: a4c3f7013fc845e5a09bfef43510d687
+run_name: useful-moth-370
+run_uuid: a4c3f7013fc845e5a09bfef43510d687
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753257384466
+status: 3
+tags: []
+user_id: jomojola

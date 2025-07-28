@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/648d930ff0db40efbe90c974b5d18d31/artifacts
+end_time: 1753534204158
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 648d930ff0db40efbe90c974b5d18d31
+run_name: serious-lamb-590
+run_uuid: 648d930ff0db40efbe90c974b5d18d31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753346695506
+status: 3
+tags: []
+user_id: jomojola

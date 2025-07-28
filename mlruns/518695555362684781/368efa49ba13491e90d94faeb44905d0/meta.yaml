@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/368efa49ba13491e90d94faeb44905d0/artifacts
+end_time: 1749610300086
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 368efa49ba13491e90d94faeb44905d0
+run_name: worried-ray-349
+run_uuid: 368efa49ba13491e90d94faeb44905d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749241886684
+status: 3
+tags: []
+user_id: josesomojola

@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/195a0ab55e25430091f4f8bf63727820/artifacts
+end_time: 1753537732292
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 195a0ab55e25430091f4f8bf63727820
+run_name: nervous-bug-674
+run_uuid: 195a0ab55e25430091f4f8bf63727820
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753281595469
+status: 3
+tags: []
+user_id: jomojola

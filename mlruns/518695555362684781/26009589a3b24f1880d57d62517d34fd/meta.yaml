@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/26009589a3b24f1880d57d62517d34fd/artifacts
+end_time: 1753530415777
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 26009589a3b24f1880d57d62517d34fd
+run_name: fun-cod-424
+run_uuid: 26009589a3b24f1880d57d62517d34fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753387194259
+status: 3
+tags: []
+user_id: jomojola

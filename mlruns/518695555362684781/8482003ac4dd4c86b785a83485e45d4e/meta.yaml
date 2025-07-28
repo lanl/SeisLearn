@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/8482003ac4dd4c86b785a83485e45d4e/artifacts
+end_time: 1753551730476
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 8482003ac4dd4c86b785a83485e45d4e
+run_name: defiant-mink-547
+run_uuid: 8482003ac4dd4c86b785a83485e45d4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752945255497
+status: 3
+tags: []
+user_id: jomojola

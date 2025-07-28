@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/23a129c647e14b6187063852174b7bc9/artifacts
+end_time: 1753533737411
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 23a129c647e14b6187063852174b7bc9
+run_name: worried-pig-216
+run_uuid: 23a129c647e14b6187063852174b7bc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753349878828
+status: 3
+tags: []
+user_id: jomojola

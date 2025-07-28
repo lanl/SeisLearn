@@ -1,0 +1,16 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/870ae9fdc4e842d7af1ce69b38dcb768/artifacts
+deleted_time: 1751320238922
+end_time: 1750883787904
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: deleted
+run_id: 870ae9fdc4e842d7af1ce69b38dcb768
+run_name: serious-dove-542
+run_uuid: 870ae9fdc4e842d7af1ce69b38dcb768
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750883722413
+status: 3
+tags: []
+user_id: jomojola

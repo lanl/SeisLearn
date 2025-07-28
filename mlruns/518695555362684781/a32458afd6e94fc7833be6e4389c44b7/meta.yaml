@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/a32458afd6e94fc7833be6e4389c44b7/artifacts
+end_time: 1753540031117
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: a32458afd6e94fc7833be6e4389c44b7
+run_name: unique-rat-901
+run_uuid: a32458afd6e94fc7833be6e4389c44b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753262421295
+status: 3
+tags: []
+user_id: jomojola

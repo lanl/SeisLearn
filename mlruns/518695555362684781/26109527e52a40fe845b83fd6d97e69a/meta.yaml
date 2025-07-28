@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/26109527e52a40fe845b83fd6d97e69a/artifacts
+end_time: 1753545384226
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 26109527e52a40fe845b83fd6d97e69a
+run_name: delicate-snail-491
+run_uuid: 26109527e52a40fe845b83fd6d97e69a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753242426997
+status: 3
+tags: []
+user_id: jomojola

@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/223ed84c32804921ae311f8a3c99ff17/artifacts
+end_time: 1753553862702
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 223ed84c32804921ae311f8a3c99ff17
+run_name: auspicious-panda-742
+run_uuid: 223ed84c32804921ae311f8a3c99ff17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752862421993
+status: 3
+tags: []
+user_id: jomojola

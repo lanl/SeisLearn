@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/90e864875a64462ca636faa938831499/artifacts
+end_time: 1749676410446
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 90e864875a64462ca636faa938831499
+run_name: bedecked-mole-377
+run_uuid: 90e864875a64462ca636faa938831499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749654718098
+status: 3
+tags: []
+user_id: josesomojola

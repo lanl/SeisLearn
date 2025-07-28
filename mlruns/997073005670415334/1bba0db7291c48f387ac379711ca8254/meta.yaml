@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/997073005670415334/1bba0db7291c48f387ac379711ca8254/artifacts
+end_time: 1753513407822
+entry_point_name: ''
+experiment_id: '997073005670415334'
+lifecycle_stage: active
+run_id: 1bba0db7291c48f387ac379711ca8254
+run_name: capricious-gnu-961
+run_uuid: 1bba0db7291c48f387ac379711ca8254
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753366115680
+status: 3
+tags: []
+user_id: jomojola

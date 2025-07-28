@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/c305f8cb59f448a8a5f77521674afcec/artifacts
+end_time: 1753532560135
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: c305f8cb59f448a8a5f77521674afcec
+run_name: rambunctious-cow-419
+run_uuid: c305f8cb59f448a8a5f77521674afcec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753356317900
+status: 3
+tags: []
+user_id: jomojola

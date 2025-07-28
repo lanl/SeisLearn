@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/16d6b18e30824246bf1632be81bee30c/artifacts
+end_time: 1753532786436
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 16d6b18e30824246bf1632be81bee30c
+run_name: entertaining-cow-890
+run_uuid: 16d6b18e30824246bf1632be81bee30c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753355709985
+status: 3
+tags: []
+user_id: jomojola

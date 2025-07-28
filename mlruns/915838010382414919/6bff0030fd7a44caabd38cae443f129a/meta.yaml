@@ -1,0 +1,15 @@
+artifact_uri: /vast/home/jomojola/project/mlruns/915838010382414919/6bff0030fd7a44caabd38cae443f129a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '915838010382414919'
+lifecycle_stage: active
+run_id: 6bff0030fd7a44caabd38cae443f129a
+run_name: fortunate-goose-676
+run_uuid: 6bff0030fd7a44caabd38cae443f129a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751369004759
+status: 1
+tags: []
+user_id: jomojola

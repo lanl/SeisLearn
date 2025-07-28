@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/2cf9c6fa9a7d4217a1ad57a682e6136e/artifacts
+end_time: 1753539581655
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 2cf9c6fa9a7d4217a1ad57a682e6136e
+run_name: charming-moose-577
+run_uuid: 2cf9c6fa9a7d4217a1ad57a682e6136e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753266977484
+status: 3
+tags: []
+user_id: jomojola

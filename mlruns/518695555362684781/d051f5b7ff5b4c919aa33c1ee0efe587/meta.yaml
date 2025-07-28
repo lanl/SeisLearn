@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/d051f5b7ff5b4c919aa33c1ee0efe587/artifacts
+end_time: 1753542835960
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: d051f5b7ff5b4c919aa33c1ee0efe587
+run_name: lyrical-ox-1000
+run_uuid: d051f5b7ff5b4c919aa33c1ee0efe587
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753251200328
+status: 3
+tags: []
+user_id: jomojola

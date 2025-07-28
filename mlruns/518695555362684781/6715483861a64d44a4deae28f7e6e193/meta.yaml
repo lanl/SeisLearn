@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/6715483861a64d44a4deae28f7e6e193/artifacts
+end_time: 1753536108501
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 6715483861a64d44a4deae28f7e6e193
+run_name: suave-calf-390
+run_uuid: 6715483861a64d44a4deae28f7e6e193
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753332958385
+status: 3
+tags: []
+user_id: jomojola

@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/320b66bbe2b14e14a7273ffc6dc08600/artifacts
+end_time: 1753533969712
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 320b66bbe2b14e14a7273ffc6dc08600
+run_name: sneaky-shark-4
+run_uuid: 320b66bbe2b14e14a7273ffc6dc08600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753346809633
+status: 3
+tags: []
+user_id: jomojola

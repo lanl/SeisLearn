@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/997073005670415334/a7ccc738e6a64252948924b566c516e7/artifacts
+end_time: 1753515054524
+entry_point_name: ''
+experiment_id: '997073005670415334'
+lifecycle_stage: active
+run_id: a7ccc738e6a64252948924b566c516e7
+run_name: defiant-grouse-103
+run_uuid: a7ccc738e6a64252948924b566c516e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753355876723
+status: 3
+tags: []
+user_id: jomojola

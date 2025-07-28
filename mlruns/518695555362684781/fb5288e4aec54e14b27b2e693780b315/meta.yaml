@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/fb5288e4aec54e14b27b2e693780b315/artifacts
+end_time: 1753529242147
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: fb5288e4aec54e14b27b2e693780b315
+run_name: traveling-worm-247
+run_uuid: fb5288e4aec54e14b27b2e693780b315
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753399452419
+status: 3
+tags: []
+user_id: jomojola

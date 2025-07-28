@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/997073005670415334/e728a52f73304b618964a9b52ede9d2a/artifacts
+end_time: 1753519286739
+entry_point_name: ''
+experiment_id: '997073005670415334'
+lifecycle_stage: active
+run_id: e728a52f73304b618964a9b52ede9d2a
+run_name: respected-cow-256
+run_uuid: e728a52f73304b618964a9b52ede9d2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753333497012
+status: 3
+tags: []
+user_id: jomojola

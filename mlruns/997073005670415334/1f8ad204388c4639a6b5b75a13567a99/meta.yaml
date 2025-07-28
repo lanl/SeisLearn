@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/997073005670415334/1f8ad204388c4639a6b5b75a13567a99/artifacts
+end_time: 1753514583409
+entry_point_name: ''
+experiment_id: '997073005670415334'
+lifecycle_stage: active
+run_id: 1f8ad204388c4639a6b5b75a13567a99
+run_name: unruly-mole-805
+run_uuid: 1f8ad204388c4639a6b5b75a13567a99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753360490557
+status: 3
+tags: []
+user_id: jomojola

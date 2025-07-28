@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/9e821290b20f49f08e61b76fb03ae198/artifacts
+end_time: 1753540726960
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 9e821290b20f49f08e61b76fb03ae198
+run_name: adaptable-crow-104
+run_uuid: 9e821290b20f49f08e61b76fb03ae198
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753259627570
+status: 3
+tags: []
+user_id: jomojola

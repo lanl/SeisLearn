@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/997073005670415334/16005c47ac974a658ae203c36695cda4/artifacts
+end_time: 1753526882616
+entry_point_name: ''
+experiment_id: '997073005670415334'
+lifecycle_stage: active
+run_id: 16005c47ac974a658ae203c36695cda4
+run_name: calm-newt-604
+run_uuid: 16005c47ac974a658ae203c36695cda4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752713271777
+status: 3
+tags: []
+user_id: jomojola

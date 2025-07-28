@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/997073005670415334/0fae0448283e454d9f5ed45b4c137caa/artifacts
+end_time: 1753516000145
+entry_point_name: ''
+experiment_id: '997073005670415334'
+lifecycle_stage: active
+run_id: 0fae0448283e454d9f5ed45b4c137caa
+run_name: monumental-colt-919
+run_uuid: 0fae0448283e454d9f5ed45b4c137caa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753354126311
+status: 3
+tags: []
+user_id: jomojola

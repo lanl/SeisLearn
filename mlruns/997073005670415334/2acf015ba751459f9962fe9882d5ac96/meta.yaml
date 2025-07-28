@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/997073005670415334/2acf015ba751459f9962fe9882d5ac96/artifacts
+end_time: 1753515526781
+entry_point_name: ''
+experiment_id: '997073005670415334'
+lifecycle_stage: active
+run_id: 2acf015ba751459f9962fe9882d5ac96
+run_name: gentle-bird-561
+run_uuid: 2acf015ba751459f9962fe9882d5ac96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753354894590
+status: 3
+tags: []
+user_id: jomojola

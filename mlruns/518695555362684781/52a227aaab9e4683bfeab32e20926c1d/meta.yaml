@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/52a227aaab9e4683bfeab32e20926c1d/artifacts
+end_time: 1753536343801
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 52a227aaab9e4683bfeab32e20926c1d
+run_name: useful-fox-250
+run_uuid: 52a227aaab9e4683bfeab32e20926c1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753329503519
+status: 3
+tags: []
+user_id: jomojola

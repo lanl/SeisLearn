@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/396d9fcd5d8e4aa3b42c02bcbcf73cb6/artifacts
+end_time: 1753535878104
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 396d9fcd5d8e4aa3b42c02bcbcf73cb6
+run_name: industrious-ray-853
+run_uuid: 396d9fcd5d8e4aa3b42c02bcbcf73cb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753333727783
+status: 3
+tags: []
+user_id: jomojola

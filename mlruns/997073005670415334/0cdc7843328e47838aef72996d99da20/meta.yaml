@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/997073005670415334/0cdc7843328e47838aef72996d99da20/artifacts
+end_time: 1753513877654
+entry_point_name: ''
+experiment_id: '997073005670415334'
+lifecycle_stage: active
+run_id: 0cdc7843328e47838aef72996d99da20
+run_name: legendary-dog-466
+run_uuid: 0cdc7843328e47838aef72996d99da20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753363713901
+status: 3
+tags: []
+user_id: jomojola

@@ -1,0 +1,53 @@
+[project]
+name = "seisnet"
+version = "0.1.0"
+description = "Improving foundation models in seismology"
+authors = [
+    {name = "Joses Omojola"}
+]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "detecta (>=0.0.5,<0.0.6)",
+    "geopandas (==1.0.1)",
+    "geodatasets (>=2024.8.0,<2025.0.0)",
+    "h5py (>=3.13.0,<4.0.0)",
+    "natsort (>=8.4.0,<9.0.0)",
+    "obspy (>=1.4.2,<2.0.0)",
+    "pandas (>=2.2.3,<3.0.0)",
+    "seisbench (>=0.9.0,<0.10.0)",
+    "torch (>=2.7.0,<3.0.0)",
+    "torchaudio (>=2.7.0,<3.0.0)",
+    "tqdm (>=4.67.1,<5.0.0)",
+    "loguru (==0.7.2)",
+    "torchvision (>=0.22.1,<0.23.0)",
+    "click (==8.1.8)",
+    "mlflow (>=2.22.1,<3.0.0)",
+    "torchmetrics (>=1.7.2,<2.0.0)",
+    "ipykernel (>=6.29.5,<7.0.0)",
+    "xarray (>=2025.6.1,<2026.0.0)",
+    "pygmt (>=0.15.0,<0.16.0)",
+    "rtree (>=1.4.0,<2.0.0)",
+    "pickle-blosc (>=0.1.2,<0.2.0)",
+    "fastparquet (>=2024.11.0,<2025.0.0)",
+    "polars (>=1.31.0,<2.0.0)",
+    "duckdb (>=1.3.1,<2.0.0)",
+    "seaborn (>=0.13.2,<0.14.0)",
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+
+[project.scripts]
+label_training = "seisnet.pipelines:label_training_data_workflow_cli"
+label_testing = "seisnet.pipelines:label_test_data_workflow_cli"
+random_train = "seisnet.pipelines:random_train_model_cli"
+stratified_train = "seisnet.pipelines:stratified_train_model_cli"
+sparse_train = "seisnet.pipelines:sparse_train_model_cli"
+evaluate_model = "seisnet.pipelines:eval_loss_pipeline_cli"
+sparse_picks = "seisnet.pipelines:extract_sparse_picks_cli"
+cross_corr = "seisnet.pipelines:cross_corr_cli"
+cluster = "seisnet.pipelines:cluster_events_cli"

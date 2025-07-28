@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/614b65fe729b432f9cd609b587c3ba3d/artifacts
+end_time: 1753534929387
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 614b65fe729b432f9cd609b587c3ba3d
+run_name: upbeat-boar-975
+run_uuid: 614b65fe729b432f9cd609b587c3ba3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753342471288
+status: 3
+tags: []
+user_id: jomojola

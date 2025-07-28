@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/a9b28eb6fee245019f3b2e6eac78d361/artifacts
+end_time: 1753539354700
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: a9b28eb6fee245019f3b2e6eac78d361
+run_name: masked-calf-696
+run_uuid: a9b28eb6fee245019f3b2e6eac78d361
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753267051754
+status: 3
+tags: []
+user_id: jomojola

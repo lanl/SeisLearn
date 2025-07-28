@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/997073005670415334/5f2f8311fdaf454ba6cfc94846860233/artifacts
+end_time: 1753512460275
+entry_point_name: ''
+experiment_id: '997073005670415334'
+lifecycle_stage: active
+run_id: 5f2f8311fdaf454ba6cfc94846860233
+run_name: useful-pug-906
+run_uuid: 5f2f8311fdaf454ba6cfc94846860233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753376951761
+status: 3
+tags: []
+user_id: jomojola

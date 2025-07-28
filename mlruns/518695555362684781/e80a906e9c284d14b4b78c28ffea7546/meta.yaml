@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/e80a906e9c284d14b4b78c28ffea7546/artifacts
+end_time: 1753544458922
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: e80a906e9c284d14b4b78c28ffea7546
+run_name: nimble-vole-846
+run_uuid: e80a906e9c284d14b4b78c28ffea7546
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753245151254
+status: 3
+tags: []
+user_id: jomojola

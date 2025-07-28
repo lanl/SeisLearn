@@ -1,0 +1,16 @@
+artifact_uri: /Users/josesomojola/project/mlruns/997073005670415334/c36c3b3c40e24e4cabcfc6004e86708c/artifacts
+deleted_time: 1751594491307
+end_time: 1751479206990
+entry_point_name: ''
+experiment_id: '997073005670415334'
+lifecycle_stage: deleted
+run_id: c36c3b3c40e24e4cabcfc6004e86708c
+run_name: able-gnu-488
+run_uuid: c36c3b3c40e24e4cabcfc6004e86708c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751479201437
+status: 4
+tags: []
+user_id: josesomojola

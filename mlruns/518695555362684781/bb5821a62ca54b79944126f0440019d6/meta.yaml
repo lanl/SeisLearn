@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/bb5821a62ca54b79944126f0440019d6/artifacts
+end_time: 1753555028973
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: bb5821a62ca54b79944126f0440019d6
+run_name: vaunted-horse-229
+run_uuid: bb5821a62ca54b79944126f0440019d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752857977906
+status: 3
+tags: []
+user_id: jomojola

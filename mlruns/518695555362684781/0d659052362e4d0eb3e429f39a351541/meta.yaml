@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/0d659052362e4d0eb3e429f39a351541/artifacts
+end_time: 1753538894595
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 0d659052362e4d0eb3e429f39a351541
+run_name: magnificent-gnat-683
+run_uuid: 0d659052362e4d0eb3e429f39a351541
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753269520191
+status: 3
+tags: []
+user_id: jomojola

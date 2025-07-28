@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/ebd7c5e9a19645bda75dc2d23fd80288/artifacts
+end_time: 1753554557993
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: ebd7c5e9a19645bda75dc2d23fd80288
+run_name: crawling-asp-16
+run_uuid: ebd7c5e9a19645bda75dc2d23fd80288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752858222114
+status: 3
+tags: []
+user_id: jomojola

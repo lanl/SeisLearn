@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/431fe66410aa412d8e52a26bb15e02cf/artifacts
+end_time: 1753552199564
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 431fe66410aa412d8e52a26bb15e02cf
+run_name: luminous-moth-314
+run_uuid: 431fe66410aa412d8e52a26bb15e02cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752941306243
+status: 3
+tags: []
+user_id: jomojola

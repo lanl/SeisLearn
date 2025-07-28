@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/98b0ce71fb634be99d230fd00643985c/artifacts
+end_time: 1753546552684
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 98b0ce71fb634be99d230fd00643985c
+run_name: respected-snipe-277
+run_uuid: 98b0ce71fb634be99d230fd00643985c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753239101786
+status: 3
+tags: []
+user_id: jomojola

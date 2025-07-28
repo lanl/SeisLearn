@@ -1,0 +1,16 @@
+artifact_uri: /Users/josesomojola/project/mlruns/997073005670415334/8e65309d92df478a9d3d29852ccc90cf/artifacts
+deleted_time: 1751594491301
+end_time: 1751480150340
+entry_point_name: ''
+experiment_id: '997073005670415334'
+lifecycle_stage: deleted
+run_id: 8e65309d92df478a9d3d29852ccc90cf
+run_name: ambitious-dove-148
+run_uuid: 8e65309d92df478a9d3d29852ccc90cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751480141220
+status: 4
+tags: []
+user_id: josesomojola

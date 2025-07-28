@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/5d9a47ff12794d58bd662a82bff6bbb5/artifacts
+end_time: 1753543063445
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 5d9a47ff12794d58bd662a82bff6bbb5
+run_name: upbeat-cow-126
+run_uuid: 5d9a47ff12794d58bd662a82bff6bbb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753250373978
+status: 3
+tags: []
+user_id: jomojola

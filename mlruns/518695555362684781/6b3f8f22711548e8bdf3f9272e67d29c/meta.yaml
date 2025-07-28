@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/6b3f8f22711548e8bdf3f9272e67d29c/artifacts
+end_time: 1753533256590
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 6b3f8f22711548e8bdf3f9272e67d29c
+run_name: luminous-frog-41
+run_uuid: 6b3f8f22711548e8bdf3f9272e67d29c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753351582396
+status: 3
+tags: []
+user_id: jomojola

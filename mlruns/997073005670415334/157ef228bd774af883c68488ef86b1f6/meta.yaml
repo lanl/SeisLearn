@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/997073005670415334/157ef228bd774af883c68488ef86b1f6/artifacts
+end_time: 1753517179507
+entry_point_name: ''
+experiment_id: '997073005670415334'
+lifecycle_stage: active
+run_id: 157ef228bd774af883c68488ef86b1f6
+run_name: learned-donkey-47
+run_uuid: 157ef228bd774af883c68488ef86b1f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753344951689
+status: 3
+tags: []
+user_id: jomojola

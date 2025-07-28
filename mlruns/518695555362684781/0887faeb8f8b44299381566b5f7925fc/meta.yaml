@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/0887faeb8f8b44299381566b5f7925fc/artifacts
+end_time: 1753543519214
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 0887faeb8f8b44299381566b5f7925fc
+run_name: agreeable-kite-669
+run_uuid: 0887faeb8f8b44299381566b5f7925fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753248975767
+status: 3
+tags: []
+user_id: jomojola

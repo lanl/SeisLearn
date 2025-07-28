@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/ec339407044a444daccec1d745cd1967/artifacts
+end_time: 1753529709368
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: ec339407044a444daccec1d745cd1967
+run_name: languid-fowl-121
+run_uuid: ec339407044a444daccec1d745cd1967
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753394039772
+status: 3
+tags: []
+user_id: jomojola

@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/3bbea446a03f44df979d9a6b814649e5/artifacts
+end_time: 1753549855106
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 3bbea446a03f44df979d9a6b814649e5
+run_name: learned-kite-854
+run_uuid: 3bbea446a03f44df979d9a6b814649e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753149931466
+status: 3
+tags: []
+user_id: jomojola

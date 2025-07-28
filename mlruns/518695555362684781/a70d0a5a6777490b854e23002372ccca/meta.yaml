@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/a70d0a5a6777490b854e23002372ccca/artifacts
+end_time: 1753540497742
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: a70d0a5a6777490b854e23002372ccca
+run_name: dapper-midge-917
+run_uuid: a70d0a5a6777490b854e23002372ccca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753261319166
+status: 3
+tags: []
+user_id: jomojola

@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/a3e04e6e0f8d4140a64937a4173eacf9/artifacts
+end_time: 1753544923564
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: a3e04e6e0f8d4140a64937a4173eacf9
+run_name: monumental-wren-261
+run_uuid: a3e04e6e0f8d4140a64937a4173eacf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753243689436
+status: 3
+tags: []
+user_id: jomojola

@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/997073005670415334/10eb7cbcea96490f9cc925d082c1b3a2/artifacts
+end_time: 1753514340144
+entry_point_name: ''
+experiment_id: '997073005670415334'
+lifecycle_stage: active
+run_id: 10eb7cbcea96490f9cc925d082c1b3a2
+run_name: rumbling-loon-307
+run_uuid: 10eb7cbcea96490f9cc925d082c1b3a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753360536178
+status: 3
+tags: []
+user_id: jomojola

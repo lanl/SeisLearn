@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/edba2aadbb354952bbadadc63e7925b3/artifacts
+end_time: 1753555737925
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: edba2aadbb354952bbadadc63e7925b3
+run_name: casual-owl-177
+run_uuid: edba2aadbb354952bbadadc63e7925b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752857704324
+status: 3
+tags: []
+user_id: jomojola

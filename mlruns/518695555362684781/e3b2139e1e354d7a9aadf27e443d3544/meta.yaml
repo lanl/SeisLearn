@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/e3b2139e1e354d7a9aadf27e443d3544/artifacts
+end_time: 1753549619099
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: e3b2139e1e354d7a9aadf27e443d3544
+run_name: stylish-mouse-822
+run_uuid: e3b2139e1e354d7a9aadf27e443d3544
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753150439308
+status: 3
+tags: []
+user_id: jomojola

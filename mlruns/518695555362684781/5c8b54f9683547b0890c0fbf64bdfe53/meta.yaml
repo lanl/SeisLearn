@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/5c8b54f9683547b0890c0fbf64bdfe53/artifacts
+end_time: 1753537505343
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 5c8b54f9683547b0890c0fbf64bdfe53
+run_name: respected-goat-98
+run_uuid: 5c8b54f9683547b0890c0fbf64bdfe53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753282824655
+status: 3
+tags: []
+user_id: jomojola

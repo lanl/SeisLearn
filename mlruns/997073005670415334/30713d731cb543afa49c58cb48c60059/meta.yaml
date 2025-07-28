@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/997073005670415334/30713d731cb543afa49c58cb48c60059/artifacts
+end_time: 1753518115027
+entry_point_name: ''
+experiment_id: '997073005670415334'
+lifecycle_stage: active
+run_id: 30713d731cb543afa49c58cb48c60059
+run_name: suave-steed-815
+run_uuid: 30713d731cb543afa49c58cb48c60059
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753340651507
+status: 3
+tags: []
+user_id: jomojola

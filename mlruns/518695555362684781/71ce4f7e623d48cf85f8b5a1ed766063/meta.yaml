@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/71ce4f7e623d48cf85f8b5a1ed766063/artifacts
+end_time: 1753548211838
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 71ce4f7e623d48cf85f8b5a1ed766063
+run_name: nosy-stoat-169
+run_uuid: 71ce4f7e623d48cf85f8b5a1ed766063
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753229974146
+status: 3
+tags: []
+user_id: jomojola

@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/997073005670415334/494b1463c49d40968e4451bce8cede98/artifacts
+end_time: 1753514818619
+entry_point_name: ''
+experiment_id: '997073005670415334'
+lifecycle_stage: active
+run_id: 494b1463c49d40968e4451bce8cede98
+run_name: brawny-mouse-18
+run_uuid: 494b1463c49d40968e4451bce8cede98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753359262318
+status: 3
+tags: []
+user_id: jomojola

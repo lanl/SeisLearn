@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/6cd6a0c95afb4347b55c0d3046cbdf4c/artifacts
+end_time: 1753552900429
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 6cd6a0c95afb4347b55c0d3046cbdf4c
+run_name: calm-gnu-323
+run_uuid: 6cd6a0c95afb4347b55c0d3046cbdf4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752941261315
+status: 3
+tags: []
+user_id: jomojola

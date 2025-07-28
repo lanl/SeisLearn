@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/eeb0a78596184f57beea6c5373bcfba3/artifacts
+end_time: 1751899632803
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: eeb0a78596184f57beea6c5373bcfba3
+run_name: abrasive-cub-87
+run_uuid: eeb0a78596184f57beea6c5373bcfba3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751899184713
+status: 3
+tags: []
+user_id: jomojola

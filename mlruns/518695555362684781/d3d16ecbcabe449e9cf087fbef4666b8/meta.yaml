@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/d3d16ecbcabe449e9cf087fbef4666b8/artifacts
+end_time: 1753538666951
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: d3d16ecbcabe449e9cf087fbef4666b8
+run_name: clumsy-colt-506
+run_uuid: d3d16ecbcabe449e9cf087fbef4666b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753270303767
+status: 3
+tags: []
+user_id: jomojola

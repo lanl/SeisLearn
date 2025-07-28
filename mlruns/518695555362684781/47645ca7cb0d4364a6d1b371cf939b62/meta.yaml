@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/47645ca7cb0d4364a6d1b371cf939b62/artifacts
+end_time: 1753543290955
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 47645ca7cb0d4364a6d1b371cf939b62
+run_name: agreeable-kit-379
+run_uuid: 47645ca7cb0d4364a6d1b371cf939b62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753250138905
+status: 3
+tags: []
+user_id: jomojola

@@ -1,0 +1,15 @@
+artifact_uri: /vast/home/jomojola/project/mlruns/915838010382414919/5607232c51124dcda0d8735e1c1a61d1/artifacts
+end_time: 1751306952943
+entry_point_name: ''
+experiment_id: '915838010382414919'
+lifecycle_stage: active
+run_id: 5607232c51124dcda0d8735e1c1a61d1
+run_name: gaudy-shrimp-934
+run_uuid: 5607232c51124dcda0d8735e1c1a61d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751306217210
+status: 3
+tags: []
+user_id: jomojola

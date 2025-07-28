@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/e45d019d00a04ff2815ecbee3ef5dd67/artifacts
+end_time: 1753554795209
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: e45d019d00a04ff2815ecbee3ef5dd67
+run_name: brawny-bee-232
+run_uuid: e45d019d00a04ff2815ecbee3ef5dd67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752858184580
+status: 3
+tags: []
+user_id: jomojola

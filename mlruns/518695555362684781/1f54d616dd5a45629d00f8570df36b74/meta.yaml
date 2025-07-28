@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/1f54d616dd5a45629d00f8570df36b74/artifacts
+end_time: 1753531375190
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 1f54d616dd5a45629d00f8570df36b74
+run_name: exultant-whale-585
+run_uuid: 1f54d616dd5a45629d00f8570df36b74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753367195886
+status: 3
+tags: []
+user_id: jomojola

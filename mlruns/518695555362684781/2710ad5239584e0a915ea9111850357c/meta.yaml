@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/2710ad5239584e0a915ea9111850357c/artifacts
+end_time: 1753551488776
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 2710ad5239584e0a915ea9111850357c
+run_name: resilient-fox-67
+run_uuid: 2710ad5239584e0a915ea9111850357c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753130470897
+status: 3
+tags: []
+user_id: jomojola

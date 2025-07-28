@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/997073005670415334/92b0cff75cf8479e87835bccf6b5f36b/artifacts
+end_time: 1753527125825
+entry_point_name: ''
+experiment_id: '997073005670415334'
+lifecycle_stage: active
+run_id: 92b0cff75cf8479e87835bccf6b5f36b
+run_name: bemused-shad-507
+run_uuid: 92b0cff75cf8479e87835bccf6b5f36b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752711502825
+status: 3
+tags: []
+user_id: jomojola

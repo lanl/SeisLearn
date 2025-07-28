@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/2d5796e2c057474c95aa25b01a4ab38d/artifacts
+end_time: 1753543984672
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 2d5796e2c057474c95aa25b01a4ab38d
+run_name: vaunted-quail-629
+run_uuid: 2d5796e2c057474c95aa25b01a4ab38d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753246213318
+status: 3
+tags: []
+user_id: jomojola

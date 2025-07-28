@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/997073005670415334/e0670352b924409488a61791891c67c2/artifacts
+end_time: 1753524262494
+entry_point_name: ''
+experiment_id: '997073005670415334'
+lifecycle_stage: active
+run_id: e0670352b924409488a61791891c67c2
+run_name: secretive-sheep-850
+run_uuid: e0670352b924409488a61791891c67c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752950366569
+status: 3
+tags: []
+user_id: jomojola

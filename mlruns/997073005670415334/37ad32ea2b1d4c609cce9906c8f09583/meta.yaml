@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/997073005670415334/37ad32ea2b1d4c609cce9906c8f09583/artifacts
+end_time: 1753515287254
+entry_point_name: ''
+experiment_id: '997073005670415334'
+lifecycle_stage: active
+run_id: 37ad32ea2b1d4c609cce9906c8f09583
+run_name: aged-skink-253
+run_uuid: 37ad32ea2b1d4c609cce9906c8f09583
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753355604232
+status: 3
+tags: []
+user_id: jomojola

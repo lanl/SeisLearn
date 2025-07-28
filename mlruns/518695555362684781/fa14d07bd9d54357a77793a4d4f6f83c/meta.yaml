@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/fa14d07bd9d54357a77793a4d4f6f83c/artifacts
+end_time: 1753533021780
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: fa14d07bd9d54357a77793a4d4f6f83c
+run_name: nebulous-panda-540
+run_uuid: fa14d07bd9d54357a77793a4d4f6f83c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753354544083
+status: 3
+tags: []
+user_id: jomojola

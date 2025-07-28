@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/a46353abd5d449ef8e0baa3a0cf4d14d/artifacts
+end_time: 1753530893804
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: a46353abd5d449ef8e0baa3a0cf4d14d
+run_name: dashing-bird-706
+run_uuid: a46353abd5d449ef8e0baa3a0cf4d14d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753370302650
+status: 3
+tags: []
+user_id: jomojola

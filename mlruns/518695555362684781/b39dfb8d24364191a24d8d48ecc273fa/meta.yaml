@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/b39dfb8d24364191a24d8d48ecc273fa/artifacts
+end_time: 1753547270997
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: b39dfb8d24364191a24d8d48ecc273fa
+run_name: sneaky-sheep-819
+run_uuid: b39dfb8d24364191a24d8d48ecc273fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753234146806
+status: 3
+tags: []
+user_id: jomojola

@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/fdd33bbb76764148b5d71cfb9809b36a/artifacts
+end_time: 1749682844255
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: fdd33bbb76764148b5d71cfb9809b36a
+run_name: amusing-deer-305
+run_uuid: fdd33bbb76764148b5d71cfb9809b36a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749661153324
+status: 3
+tags: []
+user_id: josesomojola

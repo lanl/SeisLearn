@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/98eca6ca3d4b4f40b0b82cae9b13ddd2/artifacts
+end_time: 1749679683197
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 98eca6ca3d4b4f40b0b82cae9b13ddd2
+run_name: crawling-vole-668
+run_uuid: 98eca6ca3d4b4f40b0b82cae9b13ddd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749656281603
+status: 3
+tags: []
+user_id: josesomojola

@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/602bb8b0bdd84e868789a962113c7729/artifacts
+end_time: 1753528062693
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: 602bb8b0bdd84e868789a962113c7729
+run_name: burly-cod-304
+run_uuid: 602bb8b0bdd84e868789a962113c7729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753411711985
+status: 3
+tags: []
+user_id: jomojola

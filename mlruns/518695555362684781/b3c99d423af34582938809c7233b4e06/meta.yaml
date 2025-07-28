@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/b3c99d423af34582938809c7233b4e06/artifacts
+end_time: 1753546791489
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: b3c99d423af34582938809c7233b4e06
+run_name: polite-shrike-319
+run_uuid: b3c99d423af34582938809c7233b4e06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753235466610
+status: 3
+tags: []
+user_id: jomojola

@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/518695555362684781/ca5c8015848343408027ca90e27eee27/artifacts
+end_time: 1753534447165
+entry_point_name: ''
+experiment_id: '518695555362684781'
+lifecycle_stage: active
+run_id: ca5c8015848343408027ca90e27eee27
+run_name: industrious-wasp-803
+run_uuid: ca5c8015848343408027ca90e27eee27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753344167960
+status: 3
+tags: []
+user_id: jomojola

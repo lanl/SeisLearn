@@ -1,0 +1,15 @@
+artifact_uri: /Users/josesomojola/project/mlruns/997073005670415334/37e3b495d7ab4161b0727d2fb3a57124/artifacts
+end_time: 1753520732384
+entry_point_name: ''
+experiment_id: '997073005670415334'
+lifecycle_stage: active
+run_id: 37e3b495d7ab4161b0727d2fb3a57124
+run_name: rogue-mule-467
+run_uuid: 37e3b495d7ab4161b0727d2fb3a57124
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753322074499
+status: 3
+tags: []
+user_id: jomojola
