@@ -5,7 +5,7 @@ import pandas as pd
 import torch
 import torch.nn as nn
 from detecta import detect_peaks
-from torchmetrics import Accuracy, F1Score, Recall
+from torchmetrics import Accuracy, F1Score, FBetaScore, Recall
 from tqdm import tqdm
 
 from seisnet.dataloaders import test_dataloader
@@ -90,6 +90,7 @@ def eval_loss_workflow(model:nn.Module,data_dir_regex:str,loss_fn,
     # Compute the metrics
     test_loss /= num_batches
     f1 = F1Score(task="binary")
+    fbeta = FBetaScore(task="binary")
     recall = Recall(task="binary")
     accuracy = Accuracy(task="binary")
 
@@ -97,6 +98,7 @@ def eval_loss_workflow(model:nn.Module,data_dir_regex:str,loss_fn,
     pred_tensor = torch.tensor(pred_class, device=model.device).to(torch.float)
 
     fl_score = f1(pred_tensor, target_tensor).item()
+    fbeta_score = fbeta(pred_tensor, target_tensor).item()
     rec_score = recall(pred_tensor, target_tensor).item()
     acc_score = accuracy(pred_tensor, target_tensor).item()
 
@@ -105,6 +107,7 @@ def eval_loss_workflow(model:nn.Module,data_dir_regex:str,loss_fn,
             f"{named}_test_loss": round(test_loss,dp),
             f"{named}_recall": round(rec_score,dp),
             f"{named}_f1": round(fl_score,dp),
+            f"{named}_fbeta": round(fbeta_score,dp),
             f"{named}_acc": round(acc_score,dp),
     }
 
